@@ -61,7 +61,7 @@ object **LUCAS** {
 </a>
 
 <a href="https://github.com/lucas3322">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas3322&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
